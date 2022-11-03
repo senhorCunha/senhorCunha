@@ -7,7 +7,6 @@
 </head>
 
 <body>
-    <img src="felipe-modified.png" alt="felipe profile picture" width="200px">
     <h1>Felipe Cunha</h1>
     <p><em>Software Developer <strong>in progress.</strong></em></p>
     <p><em>Department of Computer Science</em></p>
